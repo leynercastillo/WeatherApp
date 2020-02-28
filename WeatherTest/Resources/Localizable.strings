@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  WeatherTest
+
+  Created by Leyner Castillo on 27/02/20.
+  Copyright © 2020 Leyner Castillo. All rights reserved.
+*/
+// MARK: - Commom
+"ok" = "OK";
+"cancel" = "CANCEL";
+"request_location_permissions_title" = "Location Services disabled";
+"open_settings_message" = "Please enable Location Services in Settings";
+
+// MARK: - Home
+"home_title" = "Weather around to you";
+
+// MARK: - Detail
+"temperature" = "TEMPERATURE";
+"feels_like" = "FEELS LIKE";
+"wind" = "WIND";
